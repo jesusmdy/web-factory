@@ -4,7 +4,7 @@
 #### Project Roadmap:
 
  * [x] Project Structure
- * [ ] Editor
+ * [ ] Editor _(in progress)_
  * [ ] Storage & Persitency
  * [ ] Account & Projects
  * [ ] Deployment
