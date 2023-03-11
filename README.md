@@ -1,7 +1,7 @@
 # Web Factory Project
 ### A web HTML interactive editor written in React & Adobe Spectrum
 
-#### Widgets / web components:
+#### Project Roadmap:
 
  * [x] Project Structure
  * [ ] Editor
